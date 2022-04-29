@@ -10,3 +10,5 @@ Alert 2 is only shown when the item is out of stock for the default pincode that
 Both the alerts become None items when they are missing and the csv lists the field as "None".
 
 When either one is present, the script notifies the user by mailing them.
+
+The time module has been used to run the script indefinitely or for a certain interval and update the csv.
